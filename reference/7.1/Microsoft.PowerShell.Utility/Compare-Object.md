@@ -62,10 +62,10 @@ Compare-Object -ReferenceObject (Get-Content -Path C:\Test\Testfile1.txt) -Diffe
 ```Output
 InputObject SideIndicator
 ----------- -------------
-cat         =&gt;
-racoon      =&gt;
-dog         &lt;=
-squirrel    &lt;=
+cat         =>
+racoon      =>
+dog         <=
+squirrel    <=
 ```
 
 ### Example 2 - Compare each line of content and exclude the differences
