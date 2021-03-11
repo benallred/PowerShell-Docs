@@ -65,7 +65,7 @@ InputObject SideIndicator
 cat         =>
 racoon      =>
 dog         <=
-squirrel    <=
+squirrel    &lt;=
 ```
 
 ### Example 2 - Compare each line of content and exclude the differences
