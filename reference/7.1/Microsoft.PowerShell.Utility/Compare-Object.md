@@ -62,9 +62,9 @@ Compare-Object -ReferenceObject (Get-Content -Path C:\Test\Testfile1.txt) -Diffe
 ```Output
 InputObject SideIndicator
 ----------- -------------
-cat         =>
-racoon      =>
-dog         <=
+cat         =&gt;
+racoon      =&gt;
+dog         &lt;=
 squirrel    &lt;=
 ```
 
