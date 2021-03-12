@@ -8,7 +8,7 @@
         "version": "latest"
     }],
     "dependent_repositories": [{
-            "branch": "master",
+            "branch": "pr-143587",
             "branch_mapping": {},
             "path_to_root": "_themes",
             "url": "https://github.com/Microsoft/templates.docs.msft"
