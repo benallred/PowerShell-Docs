@@ -356,7 +356,7 @@ The `Get-Error` cmdlet supports the **Newest** parameter, allowing you to specif
 from the current session you wish displayed.
 
 ```powershell
-Get-Error -Newest 3 # Displays the lst three errors that occurred in the session
+Get-Error -Newest 3 # Displays the last three errors that occurred in the session
 ```
 
 For more information about [Get-Error](/powershell/module/microsoft.powershell.utility/get-error?view=powershell-7&preserve-view=true).
